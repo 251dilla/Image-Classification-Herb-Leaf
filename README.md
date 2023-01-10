@@ -7,7 +7,7 @@ Project Tugas Besar Kecerdasan Buatan
 Akses model pada link berikut : 
 
 # Preview
-Berikut merupakan sample pengujian data test yang diambil secara acak* dengan rata-rata akurasi lebih dari 30%
+Berikut merupakan sample pengujian data test yang diambil secara acak dengan rata-rata akurasi lebih dari 30%
 
 ![testing](https://user-images.githubusercontent.com/83935049/211615595-a37c20e5-6e4f-4c76-8845-eb1badc655e2.png)
 
