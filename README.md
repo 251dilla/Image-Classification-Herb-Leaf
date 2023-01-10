@@ -6,8 +6,11 @@ Project Tugas Besar Kecerdasan Buatan
 # Convolutional Neural Network
 Akses model pada link berikut : 
 
-<b>Preview</b>
-![testing](https://user-images.githubusercontent.com/83935049/211607644-577aa4b2-8401-49be-9d68-66db95ca4841.png)
+# Preview
+Data uji test diambil secara acak* dengan rata-rata akurasi lebih dari 30%
+
+*Plot dapat berubah tiap run
+![testing](https://user-images.githubusercontent.com/83935049/211615595-a37c20e5-6e4f-4c76-8845-eb1badc655e2.png)
 
 # Deskripsi Dataset
 Dataset menggunakan penelitian Minarno, Agus Eko; Wicaksono, Galih Wasis; Azhar, Yufis; Hasanuddin, Muhammad Yusril (2022)
