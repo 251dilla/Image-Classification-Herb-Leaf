@@ -4,7 +4,7 @@ Project Tugas Besar Kecerdasan Buatan
 - One Karillah Renata     (202010370311268)
 
 # Convolutional Neural Network
-Akses model pada link berikut : 
+Akses model pada link berikut : https://colab.research.google.com/drive/1ECDUQ1vGwuYUm_xvg6zGmdLbZXKv_usJ?usp=sharing
 
 # Preview
 Berikut merupakan sample pengujian data test yang diambil secara acak dengan rata-rata akurasi lebih dari 30%
